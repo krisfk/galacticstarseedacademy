@@ -2331,6 +2331,13 @@ h2 {
     float: left !important;
 }
 
+.pms_success-messages-wrapper p {
+    padding: 5px 10px !important;
+    border: none !important;
+    text-align: center !important;
+    background: none !important;
+}
+
 @media only screen and (max-width: 1920px) {}
 
 @media only screen and (min-width: 1400px) {
