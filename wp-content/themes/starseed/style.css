@@ -2338,6 +2338,12 @@ h2 {
     background: none !important;
 }
 
+.pms_field-errors-wrapper p {
+    font-size: 90%;
+    color: #ffc5bf !important;
+    margin: 0.5rem 0 0 0 !important;
+}
+
 @media only screen and (max-width: 1920px) {}
 
 @media only screen and (min-width: 1400px) {
