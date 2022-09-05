@@ -52,7 +52,7 @@ $(function() {
         setTimeout(() => {
             jQuery(this).val('ddd');
 
-        }, 100);
+        }, 1);
     })
 
 
