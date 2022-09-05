@@ -48,7 +48,7 @@ $(function() {
     $('#pms_billing_city,#pms_billing_state').val('Hong Kong');
     $('#pms_billing_country').val('HK');
 
-    JQuery('.pms-form-submit').click(function() {
+    jQuery('.pms-form-submit').click(function() {
         $(this).value('ddd')
     })
 
