@@ -41,5 +41,14 @@ while ( have_posts() ) :
 endwhile; // End of the loop.
 ?>
 </div>
+
+<script type="text/javascript">
+$(function() {
+
+    $('#pms_billing_city,#pms_billing_state').val('Hong Kong');
+    $('#pms_billing_country').val('HK');
+
+})
+</script>
 <?php
 get_footer();
