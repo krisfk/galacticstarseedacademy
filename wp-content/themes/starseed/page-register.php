@@ -50,7 +50,7 @@ $(function() {
 
     jQuery('.pms-form-submit').click(function() {
         setTimeout(() => {
-            jQuery(this).val('ddd');
+            jQuery(this).val('新會員加入');
 
         }, 10);
     })
