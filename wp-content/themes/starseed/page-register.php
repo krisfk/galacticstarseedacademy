@@ -49,7 +49,10 @@ $(function() {
     $('#pms_billing_country').val('HK');
 
     jQuery('.pms-form-submit').click(function() {
-        jQuery(this).val('ddd');
+        setTimeout(() => {
+            jQuery(this).val('ddd');
+
+        }, 100);
     })
 
 
