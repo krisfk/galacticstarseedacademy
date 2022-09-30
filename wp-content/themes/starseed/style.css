@@ -2344,13 +2344,17 @@ h2 {
     margin: 0.5rem 0 0 0 !important;
 }
 
-.pms-form>input[type=submit]:hover {
+.pms-form>input[type='submit']:hover {
     /* background: #000 !important; */
     background-color: #dfdcde !important;
     text-decoration: none;
     background-image: none;
     color: #515151 !important;
     border: 1px solid #fff;
+}
+
+#pms-subscription-plans-discount {
+    display: block !important;
 }
 
 @media only screen and (max-width: 1920px) {}
