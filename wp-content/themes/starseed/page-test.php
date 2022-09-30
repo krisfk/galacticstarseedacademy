@@ -1,6 +1,6 @@
 <?php
 
-// echo do_shortcode('[pms-register]');
-echo 111;
+echo do_shortcode('[pms-register]');
+// echo 111;
 
 ?>
