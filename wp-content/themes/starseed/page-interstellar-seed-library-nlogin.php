@@ -63,7 +63,7 @@ $category_img = z_taxonomy_image_url(get_queried_object()->term_id);
         </div>
 
 
-        <a href="<?php echo get_site_url();?>/key" class="page-reg-btn">揚升聖殿會員登入</a>
+        <a href="<?php echo get_site_url();?>/ascension-temple-login" class="page-reg-btn">揚升聖殿會員登入</a>
         <a href="<?php echo get_site_url();?>/register" class="page-reg-btn">新會員加入</a>
 
 

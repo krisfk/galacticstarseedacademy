@@ -72,7 +72,7 @@ if( pms_is_member_of_plan( array( 178 ) ) )
         </div>
 
 
-        <a href="<?php echo get_site_url();?>/key" class="page-reg-btn">揚升之鑰會員登入</a>
+        <a href="<?php echo get_site_url();?>/ascension-temple-login" class="page-reg-btn">揚升之鑰會員登入</a>
         <a href="<?php echo get_site_url();?>/register" class="page-reg-btn">新會員加入</a>
 
 

@@ -134,7 +134,7 @@ get_header(); ?>
                     <div>
                         揚升之鑰是一個讓希望進一步開發靈性潛能的人長期學習和在靈性上成長的平台。在這個平台上，你將會吸收到大量在書局和網上無法找到的資訊，以及連結來自星際和宇宙間的高頻能量，讓來自宇宙本源的能量填滿你生命的每一個部分。
                     </div> -->
-                    <a href="<?php echo get_site_url();?>/key" class="know-more-btn">了解更多</a>
+                    <a href="<?php echo get_site_url();?>/ascension-temple-login" class="know-more-btn">了解更多</a>
 
                 </div>
             </div>
