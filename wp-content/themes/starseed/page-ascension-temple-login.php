@@ -253,7 +253,7 @@ if( pms_is_member_of_plan( array( 178 ) ) )
 
 
             <div class="text-center mb-5">
-                <a class="know-more-btn" href="<?php echo get_site_url();?>/cosmic-energy-meditation-content-1">
+                <a class="know-more-btn" href="<?php echo get_site_url();?>/cosmic-meditation-playlist">
                     <?php 
         if( pms_is_member_of_plan( array( 178 ) ) ) 
         {
@@ -309,7 +309,7 @@ if( pms_is_member_of_plan( array( 178 ) ) )
             ?>
 
             <div class="text-center mb-5">
-                <a class="know-more-btn" href="<?php echo get_site_url();?>/cosmic-energy-meditation-content-1">
+                <a class="know-more-btn" href="<?php echo get_site_url();?>/cosmic-meditation-playlist">
                     <?php 
             if( pms_is_member_of_plan( array( 178 ) ) ) 
             {

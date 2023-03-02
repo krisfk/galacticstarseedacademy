@@ -71,12 +71,12 @@ if( !pms_is_member_of_plan( array( 178 ) ) )
 
         <!-- <script type="text/javascript"> -->
         <?php
-       wp_redirect(get_site_url().'/cosmic-energy-meditation-content-1');
+       wp_redirect(get_site_url().'/cosmic-meditation-playlist');
 
 ?>
 
         <div class="text-center">
-            <a href="<?php echo get_site_url();?>/cosmic-energy-meditation-content-1" class="lang-track-a"> <img
+            <a href="<?php echo get_site_url();?>/cosmic-meditation-playlist" class="lang-track-a"> <img
                     src="http://64.227.13.14/starseed/wp-content/uploads/2021/10/lang-1.jpg" alt="">
                 <div>進入聆聽</div>
             </a>
