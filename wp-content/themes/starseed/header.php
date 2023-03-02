@@ -188,7 +188,7 @@ if( pms_is_member_of_plan( array( 178 ) )  || $expired)
                                                     <a class="level-1"
                                                         href="<?php echo wp_logout_url(get_site_url()) ?>">登出</a>
                                                 </li>
-                                                <?php    // wp_redirect(get_site_url().'/key');
+                                                <?php    // wp_redirect(get_site_url().'/ascension-temple-login');
     // exit;
 }
 

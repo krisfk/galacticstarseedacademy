@@ -19,7 +19,7 @@ get_header(); ?>
 <?php
 if( !pms_is_member_of_plan( array( 178 ) ) ) 
 {
-    print('<script>window.location.href="'.get_site_url().'/key'.'"</script>');
+    print('<script>window.location.href="'.get_site_url().'/ascension-temple-login'.'"</script>');
 exit;
 }
 ?>

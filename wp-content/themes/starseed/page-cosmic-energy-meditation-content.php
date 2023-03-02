@@ -43,7 +43,7 @@ if( !pms_is_member_of_plan( array( 178 ) ) )
 <?php
 // if( !pms_is_member_of_plan( array( 178 ) ) ) 
 // {
-//     wp_redirect(get_site_url().'/key');
+//     wp_redirect(get_site_url().'/ascension-temple-login');
 //     exit;
 // }
 ?>
