@@ -21,7 +21,7 @@ get_header(); ?>
 <?php
 if( !pms_is_member_of_plan( array( 178 ) ) ) 
 {
-    wp_redirect(get_site_url().'/cosmic-energy-meditation');
+    wp_redirect(get_site_url().'/cosmic-energy-introduction');
     exit;
 }
 ?>
