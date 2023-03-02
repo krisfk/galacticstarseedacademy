@@ -279,7 +279,7 @@ if( pms_is_member_of_plan( array( 178 ) ) )
 
 
             <div class="text-center mb-5">
-                <a class="know-more-btn" href="<?php echo get_site_url();?>/interstellar-seed-library">
+                <a class="know-more-btn" href="<?php echo get_site_url();?>/ascension-mechanics-library">
                     <?php 
         if( pms_is_member_of_plan( array( 178 ) ) ) 
         {
@@ -354,7 +354,7 @@ if( pms_is_member_of_plan( array( 178 ) ) )
 
             <div class="text-center">
 
-                <a class="know-more-btn" href="<?php echo get_site_url();?>/interstellar-seed-library/"> <?php 
+                <a class="know-more-btn" href="<?php echo get_site_url();?>/ascension-mechanics-library/"> <?php 
             if( pms_is_member_of_plan( array( 178 ) ) ) 
             {
                 echo '進入';
