@@ -2561,6 +2561,7 @@ h2 {
     left: 0;
     width: 100%;
     overflow: auto;
+    padding-bottom: 20px;
     /* padding-bottom: 100rem; */
     height: 100vh;
     padding-top: 2rem;
