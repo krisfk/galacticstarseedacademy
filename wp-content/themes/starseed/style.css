@@ -2491,6 +2491,7 @@ h2 {
   .top-menu-container {
     position: fixed;
     overflow: auto;
+    padding-bottom: 5rem;
     z-index: 10000;
     top: 0;
     left: 0;
@@ -2560,7 +2561,7 @@ h2 {
     left: 0;
     width: 100%;
     overflow: auto;
-    padding-bottom: 100rem;
+    /* padding-bottom: 100rem; */
     height: 100vh;
     padding-top: 2rem;
     /* height: 100%; */
