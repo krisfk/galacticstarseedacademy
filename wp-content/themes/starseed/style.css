@@ -2559,6 +2559,7 @@ h2 {
     top: 77px;
     left: 0;
     width: 100%;
+    overflow: auto;
     height: 100vh;
     padding-top: 2rem;
     /* height: 100%; */
