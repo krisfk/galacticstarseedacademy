@@ -95,8 +95,8 @@ get_header(); ?>
             <a href="<?php echo get_site_url();?>/about-us" class="know-more-btn">了解更多</a>
         </div>
         <div class="col-4">
-            <img class="w-100 bosco-foto" src="<?php echo get_template_directory_uri();?>/assets/images/bosco-foto.png"
-                alt="">
+            <img class="w-100 bosco-foto"
+                src="https://galacticstarseedacademy.com/wp-content/uploads/2023/03/bosco-pro-pic.png" alt="">
 
         </div>
 
