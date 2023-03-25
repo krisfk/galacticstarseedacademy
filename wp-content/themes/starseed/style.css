@@ -2364,6 +2364,10 @@ h2 {
   display: block !important;
 }
 
+.center-photo {
+  max-width: 360px;
+}
+
 @media only screen and (max-width: 1920px) {
 }
 
