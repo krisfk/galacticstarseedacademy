@@ -44,7 +44,8 @@ get_header(); ?>
 
                 地址：觀塘創業街31號LT Tower 1002室 <br>
 
-                <img src="https://galacticstarseedacademy.com/wp-content/uploads/2023/03/center-photo.jpeg" alt="">
+                <img class="w-100"
+                    src="https://galacticstarseedacademy.com/wp-content/uploads/2023/03/center-photo.jpeg" alt="">
 
             </div>
 
