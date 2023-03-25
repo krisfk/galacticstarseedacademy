@@ -40,7 +40,12 @@ get_header(); ?>
         <div class="mt-4">
 
             <div>
-                我們樂意為您提供任何協助
+                我們樂意為您提供任何協助 <br>
+
+                地址：觀塘創業街31號LT Tower 1002室 <br>
+
+                <img src="https://galacticstarseedacademy.com/wp-content/uploads/2023/03/center-photo.jpeg" alt="">
+
             </div>
 
             <div class="contact-table-div mt-5 row">
