@@ -52,7 +52,7 @@ get_header(); ?>
             <div class="contact-table-div mt-5 row">
                 <div class="col-lg-3 col-md-6 col-sm-6 col-12 contact-icon-div">
                     <div><img src="<?php echo get_template_directory_uri();?>/assets/images/icon-1.png" alt=""></div>
-                    <div class="mt-2">5340 8275</div>
+                    <div class="mt-2">6999 5659</div>
                 </div>
 
 
@@ -72,8 +72,8 @@ get_header(); ?>
 
                 <div class="col-lg-3 col-md-6 col-sm-6 col-12 ">
                     <div><img src="<?php echo get_template_directory_uri();?>/assets/images/icon-4.png" alt=""></div>
-                    <div class="mt-2"> <a href="mailto:boscofth0506@gmail.com"
-                            target="_blank">boscofth0506@gmail.com</a></div>
+                    <div class="mt-2"> <a href="mailto:galacticstarseedacademy@gmail.com"
+                            target="_blank">galacticstarseedacademy@gmail.com</a></div>
                 </div>
             </div>
 
