@@ -138,6 +138,12 @@ echo do_shortcode('[apwp_player playlist_id="40" limit="999999999999" ]');
 <script type="text/javascript">
 $(function() {
 
+    var aud = document.getElementById("jp_audio_0");
+    aud.onended = function() {
+        aud.pause();
+    };
+
+
 
 
     $('.search-track').bind('keyup', function() {
