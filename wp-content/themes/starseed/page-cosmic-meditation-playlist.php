@@ -136,12 +136,14 @@ echo do_shortcode('[apwp_player playlist_id="40" limit="999999999999" ]');
 
 
 <script type="text/javascript">
+var aud = document.getElementById("jp_audio_0");
+aud.onended = function() {
+    aud.pause();
+};
+
+
 $(function() {
 
-    var aud = document.getElementById("jp_audio_0");
-    aud.onended = function() {
-        aud.pause();
-    };
 
 
 
